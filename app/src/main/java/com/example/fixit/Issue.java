@@ -1,7 +1,5 @@
 package com.example.fixit;
 
-import android.net.Uri;
-
 import java.util.Date;
 
 public class Issue {
@@ -11,6 +9,7 @@ public class Issue {
     String issueID;
     Date date;
     String title;
+
     Double latitude;
     Double longitude;
 
